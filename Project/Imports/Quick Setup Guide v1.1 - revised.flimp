@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2018-11-22T20:00:32.3081703+02:00"
+  ProjectName="empow Installation Guide"
+  ProjectFolder="C:\Users\dgold\Documents\My Projects"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  LastImport="2018-11-22T20:01:46.8296126+02:00">
+  <Files>
+    <Url
+      Source="../../../../../Google Drive/Tech Tav/empow (GD)/Installation Guide/Quick Setup Guide v1.1 - revised.docx"
+      AbsoluteSource="file:///C:/Users/dgold/Google Drive/Tech Tav/empow (GD)/Installation Guide/Quick Setup Guide v1.1 - revised.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Quick Setup Guide v1.1 - revised.jpg"
+      TimeStamp="11/22/2018 8:00:32 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Quick Setup Guide v1.1 - revised.png"
+      TimeStamp="11/22/2018 8:00:32 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/empow Platform.png"
+      TimeStamp="11/22/2018 8:00:33 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/empow Platform.jpg"
+      TimeStamp="11/22/2018 8:00:33 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/empow Platform_1.png"
+      TimeStamp="11/22/2018 8:00:33 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/empow Platform.htm"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Quick Setup Guide v1.1 - revised.htm"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/System Components.htm"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/System Requirements.htm"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Connectivity Map.png"
+      TimeStamp="11/22/2018 8:00:33 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Connectivity Map.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Default communication ports.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Installation procedure.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Apache Cassandra server.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Apache Cassandra server_1.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Apache Cassandra server_2.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Apache Cassandra server_3.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Apache Cassandra server_4.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Apache Cassandra server.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Initial configuration.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Initial configuration_1.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Initial configuration_2.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Initial configuration_3.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Initial configuration_4.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Initial configuration.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Forensics Server.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Forensics Server.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Initial configuration_1_1.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Initial configuration_1_2.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Initial configuration_1.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Security Stack SST Server.png"
+      TimeStamp="11/22/2018 8:00:34 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Security Stack SST Server.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Initial configuration_2_1.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Initial configuration_2_2.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Initial configuration_2_3.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Initial configuration_2.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/DPI Server.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/DPI Server.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Initial configuration_3_1.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Initial configuration_3_2.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Initial configuration_3.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Application configuration.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Application configuration_1.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Application configuration_2.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Application configuration_3.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Application configuration.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Validation.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Validation_1.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Validation.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Start the application.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Start the application_1.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Start the application_2.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Start the application_3.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Start the application_4.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Start the application_5.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Start the application_6.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Quick Setup Guide v1.1 - revised/Start the application_7.png"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Quick Setup Guide v1.1 - revised/Start the application.htm"
+      TimeStamp="11/22/2018 8:00:36 PM" />
+    <Url
+      Source="../TOCs/Quick Setup Guide v1.1 - revised.fltoc"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Quick Setup Guide v1.1 - revised.flmsp"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Quick Setup Guide v1.1 - revised.css"
+      TimeStamp="11/22/2018 8:00:35 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="h1" />
+    <StyleName
+      Name="h2_nobreak" />
+    <StyleName
+      Name="h3" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="h1" />
+    <StyleName
+      Name="h2_nobreak" />
+    <StyleName
+      Name="h3" />
+    <StyleName
+      Name="List Paragraph" />
+    <StyleName
+      Name="ol2" />
+    <StyleName
+      Name="p" />
+    <StyleName
+      Name="p.img" />
+    <StyleName
+      Name="p.indented" />
+    <StyleName
+      Name="p_Note" />
+    <StyleName
+      Name="Subtitle" />
+    <StyleName
+      Name="Title" />
+    <StyleName
+      Name="TOC 1" />
+    <StyleName
+      Name="TOC 2" />
+    <StyleName
+      Name="TOC Heading" />
+    <StyleName
+      Name="ul" />
+    <StyleName
+      Name="ul-2" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+    <StyleName
+      Name="Intense Emphasis" />
+  </UsedCharacterStyles>
+</MsWordImport>

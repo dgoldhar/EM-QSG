@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:sourceDocument="C:\Users\dgold\Google Drive\Tech Tav\empow (GD)\Installation Guide\Quick Setup Guide v1.1 - revised.docx">
+    <head><title></title>
+        <link href="../Stylesheets/Quick Setup Guide v1.1 - revised.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <p class="Header">
+                <img src="../Images/Quick Setup Guide v1.1 - revised/Quick Setup Guide v1.1 - revised.jpg" style="height: 175px;width: 840px;" class="img_7" />
+            </p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p class="Footer_1">empow Platform<span class="span_3">&#160; </span> <span class="span_4">installation guide</span></p>
+            <p class="Footer_1">
+                <img src="../Images/Quick Setup Guide v1.1 - revised/Quick Setup Guide v1.1 - revised.png" style="height: 70px;width: 825px;" class="img_8" />Page | 5 </p>
+        </div>
+    </body>
+</html>

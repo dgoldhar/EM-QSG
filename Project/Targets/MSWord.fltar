@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Microsoft Word Target"
+  Type="MsWord"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Quick Setup Guide v1.1 - revised.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/Quick Setup Guide v1.1 - revised.css"
+  DisableAutoSync="false"
+  PatchHeadingLevels="true"
+  EmbedImages="true"
+  OutputFile="empow Installation Guide"
+  MasterPage="/Content/Resources/MasterPages/Quick Setup Guide v1.1 - revised.flmsp">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PreserveTrackedChanges="true"
+    EnableTrackedChanges="true" />
+</CatapultTarget>

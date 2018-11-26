@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:sourceDocument="C:\Users\dgold\Google Drive\Tech Tav\empow (GD)\Installation Guide\Quick Setup Guide v1.1 - revised.docx">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/Quick Setup Guide v1.1 - revised.css" rel="stylesheet" />
+    </head>
+    <body>
+        <p class="h2_nobreak"><a name="_Toc529432833"></a>Apache Cassandra server</p>
+        <p class="h3">Deploy the image using the vSphere client</p>
+        <ol start="1" class="ol_1">
+            <li class="ol2">On the vSphere client, navigate to <span class="span_1">File &gt; Deploy OVF </span><span class="span_1">T</span><span class="span_1">emplate…</span></li>
+        </ol>
+        <p class="pimg">
+            <img src="../Resources/Images/Quick Setup Guide v1.1 - revised/Apache Cassandra server.png" style="height: 162px;width: 198px;" class="img_5" />
+        </p>
+        <ol start="2" class="ol_1">
+            <li class="ol2">Enter the empow-cassandra.ova file location.</li>
+        </ol>
+        <p class="pimg">
+            <img src="../Resources/Images/Quick Setup Guide v1.1 - revised/Apache Cassandra server_1.png" style="height: 362px;width: 380px;" class="img_5" />
+        </p>
+        <ol start="3" class="ol_1">
+            <li class="ol2">Choose a storage provisioning method from the following options:</li>
+        </ol>
+        <ul class="ul_1">
+            <li class="ul2_1">Thick Provision Lazy Zeroed</li>
+        </ul>
+        <p class="pindented">This option pre-allocates space for your disk. It is not subject to fragmentation, since it is pre-allocated, and is easier to track capacity utilization.</p>
+        <ul class="ul_1">
+            <li class="ul2_1">Thick Provision Eager Zeroed </li>
+        </ul>
+        <p class="pindented">This option also pre-allocates the space, and then zeroes. This takes more time, but increases the net-new write performance of the virtual disk. The benefit of this may be marginal, since you enjoy the benefit only once. It does not improve the speed for subsequent overwrites.</p>
+        <ul class="ul_1">
+            <li class="ul2_1">Thin Provision</li>
+        </ul>
+        <p class="pindented">This option allocates storage on demand, instead of fixing it at the beginning. This is a good option for controlling costs, and for scaling the storage over time. You need to monitor disk utilization, to avoid overcommitting your storage to more than it can hold. In addition, since allocation is done on the fly, there may be performance hit on initial writes (as the storage allocation is scaled up) that wouldn’t be encountered with the thick disk options. This is because newly allocated data blocks have to first be zeroed before being used, to ensure the space is empty.</p>
+        <p class="pimg">
+            <img src="../Resources/Images/Quick Setup Guide v1.1 - revised/Apache Cassandra server_2.png" style="height: 237px;width: 549px;" class="img_5" />
+        </p>
+        <p class="pindented">We recommend the <span class="span_2">Thick provision Lazy Zeroed </span>option, for all servers.</p>
+        <ol start="4" class="ol_1">
+            <li class="ol2">Assign the machine to the management network.</li>
+        </ol>
+        <p class="pimg">
+            <img src="../Resources/Images/Quick Setup Guide v1.1 - revised/Apache Cassandra server_3.png" style="height: 246px;width: 527px;" class="img_5" />
+        </p>
+        <ol start="5" class="ol_1">
+            <li class="ol2">After the image is uploaded, edit the virtual machine settings to adjust the amount of memory and the number of CPU cores, based on the sizing calculator results, and add additional disk to expand the memory, if required.</li>
+        </ol>
+        <p class="ListParagraph">The image comes with a 500GBytes hard disk.</p>
+        <p class="pimg">
+            <img src="../Resources/Images/Quick Setup Guide v1.1 - revised/Apache Cassandra server_4.png" style="height: 223px;width: 642px;" class="img_5" />
+        </p>
+    </body>
+</html>

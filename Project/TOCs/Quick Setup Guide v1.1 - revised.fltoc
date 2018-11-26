@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" sourceDocument="C:\Users\dgold\Google Drive\Tech Tav\empow (GD)\Installation Guide\Quick Setup Guide v1.1 - revised.docx">
+    <TocEntry Title="Introduction" Link="/Content/Quick Setup Guide v1.1 - revised/Quick Setup Guide v1.1 - revised.htm#_Toc529432826">
+        <TocEntry Title="Overview of the empow platform" Link="/Content/Quick Setup Guide v1.1 - revised/Quick Setup Guide v1.1 - revised.htm#_Toc529432827" />
+        <TocEntry Title="System Components" Link="/Content/Quick Setup Guide v1.1 - revised/System Components.htm#_Toc529432828" />
+        <TocEntry Title="System Requirements" Link="/Content/Quick Setup Guide v1.1 - revised/System Requirements.htm#_Toc529432829" />
+        <TocEntry Title="Connectivity Map" Link="/Content/Quick Setup Guide v1.1 - revised/Connectivity Map.htm#_Toc529432830" />
+    </TocEntry>
+    <TocEntry Title="Installation procedure" Link="/Content/Quick Setup Guide v1.1 - revised/Installation procedure.htm#_Toc529432831">
+        <TocEntry Title="Summary" Link="/Content/Quick Setup Guide v1.1 - revised/Installation procedure.htm#_Toc529432832" />
+        <TocEntry Title="Apache Cassandra server" Link="/Content/Quick Setup Guide v1.1 - revised/Apache Cassandra server.htm#_Toc529432833" />
+        <TocEntry Title="Forensics Server" Link="/Content/Quick Setup Guide v1.1 - revised/Forensics Server.htm#_Toc529432834" />
+        <TocEntry Title="Security Stack (SST) Server" Link="/Content/Quick Setup Guide v1.1 - revised/Security Stack SST Server.htm#_Toc529432835" />
+        <TocEntry Title="DPI Server" Link="/Content/Quick Setup Guide v1.1 - revised/DPI Server.htm#_Toc529432836" />
+    </TocEntry>
+    <TocEntry Title="Start the application" Link="/Content/Quick Setup Guide v1.1 - revised/Start the application.htm#_Toc529432837" />
+</CatapultToc>

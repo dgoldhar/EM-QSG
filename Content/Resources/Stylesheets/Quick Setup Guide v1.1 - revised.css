@@ -1,0 +1,571 @@
+/*<meta sourceDocument="C:\Users\dgold\Google Drive\Tech Tav\empow (GD)\Installation Guide\Quick Setup Guide v1.1 - revised.docx" />*/
+
+p
+{
+	font-family: Arial;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+ol
+{
+	font-family: Arial;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+ul
+{
+	font-family: Arial;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+li
+{
+	font-family: Arial;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+td
+{
+	font-family: Arial;
+	vertical-align: top;
+}
+
+p.Header
+{
+	font-family: Arial;
+}
+
+p.Footer
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	color: #404040;
+	font-family: Lato;
+	font-size: 10pt;
+}
+
+p.ol2
+{
+	page-break-after: avoid;
+	margin-bottom: 8pt;
+	font-family: Lato;
+	color: #404040;
+	font-size: 11pt;
+}
+
+p.Title
+{
+	margin-bottom: 8pt;
+	font-family: Lato;
+	letter-spacing: -1pt;
+	font-size: 28pt;
+}
+
+p.Subtitle
+{
+	margin-bottom: 8pt;
+	font-family: Lato;
+	letter-spacing: 1pt;
+	font-size: 16pt;
+}
+
+p.p
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	font-family: Lato;
+	color: #404040;
+	font-size: 11pt;
+}
+
+p.TOCHeading
+{
+	page-break-before: always;
+	margin-top: 15pt;
+	margin-bottom: 23pt;
+	text-align: right;
+	font-weight: bold;
+	color: #0BD484;
+	font-size: 33pt;
+	mc-heading-level: 10;
+	font-family: Lato;
+}
+
+p.TOC1
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	font-family: Lato;
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+p.TOC2
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	margin-left: 10pt;
+	font-family: Lato;
+	font-size: 12pt;
+}
+
+img.img_1
+{
+	left: 0;
+	text-align: left;
+	z-index: 3;
+	mso-position-horizontal-relative: text;
+	mso-position-vertical-relative: text;
+	margin-left: 0pt;
+}
+
+img.img_2
+{
+	left: 0;
+	text-align: left;
+	z-index: -3;
+	visibility: visible;
+	mso-wrap-style: square;
+	mso-width-percent: 0;
+	mso-height-percent: 0;
+	mso-wrap-distance-left: 9pt;
+	mso-wrap-distance-top: 0;
+	mso-wrap-distance-right: 9pt;
+	mso-wrap-distance-bottom: 0;
+	mso-position-horizontal: absolute;
+	mso-position-horizontal-relative: text;
+	mso-position-vertical: absolute;
+	mso-position-vertical-relative: text;
+	mso-width-percent: 0;
+	mso-height-percent: 0;
+	mso-width-relative: page;
+	mso-height-relative: page;
+	margin-left: 144.7pt;
+}
+
+p.ol2_1
+{
+	page-break-after: avoid;
+	margin-bottom: 8pt;
+	font-family: Lato;
+	color: #404040;
+	font-size: 11pt;
+	margin-left: 32pt;
+}
+
+img.img_3
+{
+	z-index: 4;
+	mso-position-horizontal-relative: text;
+	mso-position-vertical-relative: text;
+	margin-left: 0pt;
+}
+
+p.h1
+{
+	mc-heading-level: 1;
+	page-break-before: always;
+	margin-top: 15pt;
+	margin-bottom: 23pt;
+	text-align: right;
+	font-family: Lato;
+	font-weight: bold;
+	color: #0BD484;
+	font-size: 33pt;
+}
+
+p.h2_nobreak
+{
+	mc-heading-level: 2;
+	page-break-after: avoid;
+	margin-top: 18pt;
+	margin-bottom: 6pt;
+	font-family: Lato;
+	font-weight: bold;
+	color: #404040;
+	font-size: 18pt;
+}
+
+span.span_1
+{
+	font-weight: bold;
+}
+
+li.ul
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	color: #404040;
+	font-size: 11pt;
+	margin-left: 32pt;
+	font-family: Lato;
+}
+
+li.ListParagraph
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	color: #404040;
+	font-size: 11pt;
+	margin-left: 32pt;
+	font-family: Lato;
+}
+
+li.ul_1
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	color: #404040;
+	font-size: 11pt;
+	margin-left: 32pt;
+	font-family: Lato;
+	list-style-type: square;
+}
+
+ul.ul_1
+{
+	list-style-type: square;
+	margin-left: 50pt;
+}
+
+li.ListParagraph_1
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	color: #404040;
+	font-size: 11pt;
+	margin-left: 32pt;
+	font-family: Lato;
+	list-style-type: circle;
+}
+
+ul.ul_2
+{
+	list-style-type: circle;
+	margin-left: 72pt;
+}
+
+li.ul_2
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	color: #404040;
+	font-size: 11pt;
+	margin-left: 32pt;
+	font-family: Lato;
+	page-break-inside: avoid;
+}
+
+p.pimg
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	color: #404040;
+	font-size: 11pt;
+	text-align: center;
+	font-family: Lato;
+}
+
+img.img_4
+{
+	visibility: visible;
+	mso-wrap-style: square;
+}
+
+p.h3
+{
+	page-break-after: avoid;
+	margin-top: 12pt;
+	margin-bottom: 3pt;
+	font-family: Lato;
+	font-weight: bold;
+	color: #404040;
+	font-size: 14pt;
+}
+
+p.p_1
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	font-family: Lato;
+	color: #404040;
+	font-size: 11pt;
+	page-break-inside: avoid;
+}
+
+td.td_1
+{
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: #595959;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-left-color: #595959;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #595959;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #595959;
+	background-color: #30E895;
+	vertical-align: bottom;
+}
+
+p.p_2
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	font-family: Lato;
+	color: #404040;
+	font-size: 11pt;
+	page-break-inside: avoid;
+	text-align: center;
+}
+
+td.td_2
+{
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: #595959;
+	border-left-style: none;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #595959;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #595959;
+	background-color: #30E895;
+	vertical-align: bottom;
+}
+
+td.td_3
+{
+	border-top-style: none;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-left-color: #595959;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #595959;
+	background-color: #auto;
+	vertical-align: bottom;
+}
+
+td.td_4
+{
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+	background-color: #auto;
+	vertical-align: bottom;
+}
+
+td.td_5
+{
+	border-top-style: none;
+	border-left-style: none;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #595959;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #595959;
+	background-color: #auto;
+	vertical-align: bottom;
+}
+
+table.table_1
+{
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+}
+
+li.ol2
+{
+	page-break-after: avoid;
+	margin-bottom: 8pt;
+	font-family: Lato;
+	color: #404040;
+	font-size: 11pt;
+}
+
+li.ul2
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	font-family: Lato;
+	color: #404040;
+	font-size: 11pt;
+}
+
+p.pindented
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	color: #404040;
+	font-size: 11pt;
+	margin-left: 14pt;
+	font-family: Lato;
+}
+
+p.ListParagraph
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	color: #404040;
+	font-size: 11pt;
+	margin-left: 32pt;
+	font-family: Lato;
+}
+
+ol.ol_1
+{
+	list-style-type: decimal;
+	margin-left: 32pt;
+}
+
+img.img_5
+{
+	visibility: visible;
+	mso-wrap-style: square;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-right-style: solid;
+	border-right-width: 1pt;
+}
+
+li.ul2_1
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	font-family: Lato;
+	color: #404040;
+	font-size: 11pt;
+	list-style-type: square;
+}
+
+span.span_2
+{
+	font-style: italic;
+}
+
+p.p_Note
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	margin-left: 15pt;
+	font-family: Lato;
+	font-style: italic;
+	color: #404040;
+	font-size: 11pt;
+}
+
+span.IntenseEmphasis
+{
+	font-style: italic;
+	color: #CC3399;
+}
+
+span.IntenseEmphasis_1
+{
+	font-style: italic;
+	font-family: 'Segoe UI';
+	color: black;
+}
+
+span.IntenseEmphasis_2
+{
+	font-style: italic;
+	color: #404040;
+}
+
+p.ListParagraph_1
+{
+	margin-top: 6pt;
+	color: #404040;
+	font-size: 11pt;
+	margin-left: 32pt;
+	font-family: Lato;
+	margin-bottom: 0pt;
+}
+
+img.img_6
+{
+	visibility: visible;
+}
+
+img.img_7
+{
+	z-index: -2;
+	visibility: visible;
+	mso-wrap-style: square;
+	mso-width-percent: 0;
+	mso-height-percent: 0;
+	mso-wrap-distance-left: 9pt;
+	mso-wrap-distance-top: 0;
+	mso-wrap-distance-right: 9pt;
+	mso-wrap-distance-bottom: 0;
+	mso-position-horizontal: absolute;
+	mso-position-horizontal-relative: text;
+	mso-position-vertical: absolute;
+	mso-position-vertical-relative: text;
+	mso-width-percent: 0;
+	mso-height-percent: 0;
+	mso-width-relative: margin;
+	mso-height-relative: margin;
+	margin-left: 0pt;
+}
+
+span.span_3
+{
+	color: #FFFFFF;
+}
+
+span.span_4
+{
+	font-family: 'Segoe UI Light';
+}
+
+p.Footer_1
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	color: #404040;
+	font-family: Lato;
+	font-size: 10pt;
+	margin-left: 5pt;
+	margin-right: 5pt;
+	text-align: center;
+}
+
+img.img_8
+{
+	left: 0;
+	text-align: left;
+	z-index: -1;
+	mso-wrap-edited: f;
+	mso-width-percent: 0;
+	mso-height-percent: 0;
+	mso-position-horizontal-relative: text;
+	mso-position-vertical-relative: text;
+	mso-width-percent: 0;
+	mso-height-percent: 0;
+	margin-left: 0pt;
+}
+
